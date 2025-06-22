@@ -10,12 +10,12 @@ This project was developed to strengthen my JavaScript fundamentals and logical 
 
 ## ⚙️ Technologies Used
 
-🎲 Roll Dice: Random number generation with real-time dice image updates.
+- 🎲 Roll Dice: Random number generation with real-time dice image updates.
 
-🧮 Score Accumulation: Add dice values to current score unless a 1 is rolled.
+- 🧮 Score Accumulation: Add dice values to current score unless a 1 is rolled.
 
-🔁 Player Switch: Automatically switches turns on rolling a 1 or pressing "Hold".
+- 🔁 Player Switch: Automatically switches turns on rolling a 1 or pressing "Hold".
 
-🏆 Win Detection: Player wins when their total score reaches 100.
+- 🏆 Win Detection: Player wins when their total score reaches 100.
 
-♻️ New Game Button: Resets all values and restarts the game.
+- ♻️ New Game Button: Resets all values and restarts the game.
