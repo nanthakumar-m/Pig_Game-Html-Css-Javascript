@@ -27,7 +27,7 @@ This project was developed to strengthen my JavaScript fundamentals and logical 
 - ♻️ New Game Button: Resets all values and restarts the game.
   
 
-## 🎯 Learning Objectives / Concepts Practiced
+## 🎯 What I Gained  / Concepts Practiced
 
 ✅ DOM Manipulation and Event Binding
 
